@@ -807,7 +807,7 @@ IScroll.prototype = {
 
 		this._execEvent('refresh');
 
-		this.resetPosition();
+		// this.resetPosition();
 
 // INSERT POINT: _refresh
 
